@@ -1,0 +1,28 @@
+......................................................... THE BANKING MANAGEMENT PROJECT .................................................
+__________________________________________________________________________________________________________________________________________
+
+MADE BY :
+        1.)  PROGRAMMED BY ----------------------------
+		
+		
+		Deepak kumar Pandey (XII A1) 
+		Chandraprakash Chaubey (XII A1)
+
+
+	2.)  ADJECENT FILE MAKER ----------------------
+
+
+		Sawan kumar pal (XII A1)
+		Nishant Srivastava (XII A1)
+
+                                                                                      Session:      2015-2016
+
+To Use our Program please use Turbo c++, And follow the steps
+
+	1} copy the file named "BANKING.CPP" to your c++ program location
+	2} Open turbo C++ and open the file "BANKING.CPP" in c++
+	3} press Ctrl+F9 to run use our Program
+
+Some Screen Shots of output are also given in CD of this program
+
+__________________________________________________________________________________________________________________________________________
